@@ -1,0 +1,6 @@
+Python== 3.6
+Flask== 1.1.1
+flask_restful
+pymongo== 3.10.1
+spacy== 2.2.4
+
